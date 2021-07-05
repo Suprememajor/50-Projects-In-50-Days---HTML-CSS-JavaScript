@@ -18,8 +18,7 @@ async function generateJoke() {
 }
 
 //Using .then()
-/*
-function generateJoke() {
+/*function generateJoke() {
     const config = {
         headers: {
             'Accept': 'application/json'
